@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pdfplumber
+pdfkit
+markdown2
+requests
+python-dotenv
